@@ -19,10 +19,10 @@ Developed a robust and automated process for exporting data to Excel on a daily 
 
 
 Technologies, Methodologies, and Tools Used:
-C#
-Microsoft SQL Server
-Microsoft Excel
-Tableau
-Visual Studio
-Agile development methodologies
+C#,
+Microsoft SQL Server,
+Microsoft Excel,
+Tableau,
+Visual Studio,
+Agile development methodologies,
 Data transformation and manipulation techniques
